@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&width=435&lines=My+NaMe+Is+HamZa;I+am+a+MERN+stack+CoDer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&width=435&lines=My+NaMe+Is+HamZa;MERN+stack+DeveLoper)](https://git.io/typing-svg)
 
 <!--
 **Hamza804-latif/Hamza804-latif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
